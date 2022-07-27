@@ -120,4 +120,4 @@
 17)Now run the Router And see the changes.
 
 As it look likes:
-<img src="./Screenshots/ss.png" style="height: 600x; max-width: 100%;">
+<img src="./Screenshots/ss.png">
