@@ -120,4 +120,4 @@
 17)Now run the Router And see the changes.
 
 As it look likes:
-<img src="https://https://github.com/Priyaanbazhgan/React_Router/blob/main/Screenshots/Screenshot%20(331).png?raw=true" style="height: 600x; max-width: 100%;">
+<img src="./Screenshots/Screenshots(331).png" style="height: 600x; max-width: 100%;">
